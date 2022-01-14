@@ -1,5 +1,5 @@
 # GLCM
-GLCM represtation application using javascript.
+GLCM represtation application using javascript for a random matrix.
 
 Multidimensional arrays are used to store the matrix values. 
 
