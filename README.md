@@ -1,4 +1,4 @@
-# GLCM
+# GLCM (Gray-Level Co-Occurrence Matrix)
 GLCM represtation application using javascript for a random matrix.
 
 Multidimensional arrays are used to store the matrix values. 
