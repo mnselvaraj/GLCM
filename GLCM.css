@@ -1,0 +1,29 @@
+h2 {
+    color: blue;
+    font-size: 10;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  table,
+    th,
+    td {
+      border: 0.5px solid black;
+      border-collapse: collapse;
+      font-size: 10;
+      font-family: 'Times New Roman', Times, serif;
+    }
+
+.divcellnormal
+{
+    width: 30px;
+    background-color:transparent;
+    font-weight: normal;
+}
+
+.divcellhighlighted
+{
+    width: 30px;
+    background-color:lightgreen;
+    font-weight: bold; 
+}
